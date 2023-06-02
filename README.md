@@ -1,3 +1,5 @@
+[![Derjyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Derjyn)](https://github.com/Derjyn/github-readme-stats)
+
 ### Hi there 👋
 
 <!--
