@@ -5,5 +5,16 @@
 -------
 
 <div align=center>
-  👷 I’m currently working on https://github.com/Derjyn/LilShopMRP
+  
+  [![Years Badge](https://badges.strrl.dev/years/Derjyn)](https://github.com/Derjyn/Derjyn)
+  [![Public Repos Badge](https://badges.strrl.dev/repos/Derjyn)](https://github.com/Derjyn?tab=repositories)
+
+</div>
+
+-------
+
+<div align=center>
+  
+  👷 I’m currently working on [Caelus](https://github.com/Derjyn/Caelus)
+  
 </div>
