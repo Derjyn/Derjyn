@@ -11,11 +11,3 @@
   [![Commits Badge](https://badges.strrl.dev/commits/weekly/Derjyn)](https://badges.strrl.dev)
 
 </div>
-
--------
-
-<div align=center>
-  
-  👷 I’m currently working on [Caelus](https://github.com/Derjyn/Caelus)
-  
-</div>
