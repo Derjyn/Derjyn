@@ -2,7 +2,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Derjyn&show_icons=true&theme=solarized-dark&bg_color=00000000&hide_border=true&hide_title=true&include_all_commits=true&rank_icon=percentile"/>
 </div>
 <div align=center>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derjyn)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra"/>
 </div>
 
 -------
