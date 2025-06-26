@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=Derjyn&show_icons=true&theme=solarized-dark&bg_color=00000000&hide_border=true&hide_title=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Derjyn&show_icons=true&theme=solarized-dark&bg_color=00000000&hide_border=true&hide_title=true&include_all_commits=true"/>
 </div>
 
 -------
