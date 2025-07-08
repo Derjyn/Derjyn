@@ -5,10 +5,14 @@
 
 -------
 
-<div align=center>
-  
+<div align=center>  
   [![Years Badge](https://badges.strrl.dev/years/Derjyn)](https://github.com/Derjyn/Derjyn)
   [![Public Repos Badge](https://badges.strrl.dev/repos/Derjyn)](https://github.com/Derjyn?tab=repositories)
   [![Commits Badge](https://badges.strrl.dev/commits/weekly/Derjyn)](https://badges.strrl.dev)
+</div>
 
+------
+
+<div align=center>
+  ![Visitor Count](https://profile-counter.glitch.me/Derjyn/count.svg)
 </div>
