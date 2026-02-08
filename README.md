@@ -1,5 +1,3 @@
-<div align=center>
+I'm sick of third-party GitHub snippets/utilities/widgets that seem shiny at first, but harvest data or blast their spam at you... that also eventually just disappear. Someone should create an alternative solution that will stand the test of time, and that users would actually feel good about using.
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Derjyn&size_weight=0.5&count_weight=0.5&theme=github_dark_dimmed&bg_color=00000000&hide_border=true&include_all_commits=true&layout=compact)](https://github.com/Derjyn)
-  
-</div>
+For example, there used to be a widget right here that displayed the top languages my various projects/repos utilized. There used to be a few cool little widgets, actually... I spent hours tweaking (_what few_) variables and such to get them looking and acting nicely. Alas, they all turned into abandonware, with their developers not making any basic legacy support efforts.
