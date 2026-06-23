@@ -1,4 +1,4 @@
-### Hi, Derjyn.
+### Hi, I'm Derjyn.
 
 I'm an independent software developer, technical artist, and systems engineer. I focus on high-performance lean and mean tools, game development, and extremely boring documentation endeavors. 
 
